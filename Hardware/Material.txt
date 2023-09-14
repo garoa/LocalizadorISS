@@ -1,0 +1,11 @@
+WeMos D1 mini
+3 módulos display 8 dígitos c/ MAX7219
+1 LED
+1 resistor 100 R 1/8W
+
+Opcional:
+- placa de circuito impresso padrão ("ilhas")
+- barra de conector femea
+- fio para interligação
+
+Alimentar com fonte 5V com conector USB micro
